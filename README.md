@@ -3,6 +3,9 @@
 
 # Task Decomposer
 
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+ [![GitHub Stars](https://img.shields.io/github/stars/sametcelikbicak/task-decomposer?style=social)](https://github.com/sametcelikbicak/task-decomposer)
+
  </div>
 
 An AI agent skill that helps developers decompose complex requests into structured, AI-friendly task sequences. Optimizes context window usage, manages multi-session workflows, and produces better results from fewer, more focused prompts. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
