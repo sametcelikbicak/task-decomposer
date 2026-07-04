@@ -21,11 +21,14 @@ An AI agent skill that helps developers decompose complex requests into structur
 ## Install
 
 ```bash
-# opencode — copy to project
-cp -r task-decomposer .opencode/skills/
+# rolecraft — install from GitHub (recommended)
+npx rolecraft install sametcelikbicak/task-decomposer
 
 # or via agentskill.sh
 /learn @sametcelikbicak/task-decomposer
+
+# or copy manually
+cp -r task-decomposer .opencode/skills/
 ```
 
 ## How it's different
