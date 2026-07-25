@@ -1,8 +1,9 @@
 ---
-name: task-decomposer
+name: Task Decomposer
+slug: task-decomposer
 description: "Use when the user has a large, complex, or ambiguous request that needs to be broken down into smaller, actionable steps for AI assistance. Helps users structure prompts, manage context window limits, plan multi-session work, and get better results from AI coding agents. Also for 'too complex', 'where do I start', 'break this down', 'step by step', 'context too large', 'multi-step task', 'prompt structure', 'AI workflow', 'organize my request'."
 license: MIT
-compatibility: opencode, claude-code, cursor, windsurf, github-copilot
+compatibility: opencode, claude-code, cursor, windsurf, copilot
 metadata:
   category: development
   audience: developers
